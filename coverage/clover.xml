@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1608650239707" clover="3.2.0">
+  <project timestamp="1608650239707" name="All files">
+    <metrics statements="110" coveredstatements="106" conditionals="12" coveredconditionals="8" methods="35" coveredmethods="34" elements="157" coveredelements="148" complexity="0" loc="110" ncloc="110" packages="6" files="9" classes="9"/>
+    <package name="components.FloatingCart">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+      <file name="index.tsx" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/components/FloatingCart/index.tsx">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="7" type="stmt"/>
+        <line num="24" count="7" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="35" count="7" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+        <line num="39" count="7" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/components/FloatingCart/styles.ts">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="hooks">
+      <metrics statements="40" coveredstatements="36" conditionals="12" coveredconditionals="8" methods="11" coveredmethods="10"/>
+      <file name="cart.tsx" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/hooks/cart.tsx">
+        <metrics statements="40" coveredstatements="36" conditionals="12" coveredconditionals="8" methods="11" coveredmethods="10"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="16" type="stmt"/>
+        <line num="31" count="16" type="stmt"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="35" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="41" count="16" type="stmt"/>
+        <line num="43" count="4" type="stmt"/>
+        <line num="44" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="4" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="54" count="4" type="stmt"/>
+        <line num="62" count="16" type="stmt"/>
+        <line num="64" count="3" type="stmt"/>
+        <line num="65" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="66" count="3" type="stmt"/>
+        <line num="67" count="3" type="stmt"/>
+        <line num="68" count="3" type="stmt"/>
+        <line num="70" count="3" type="stmt"/>
+        <line num="79" count="16" type="stmt"/>
+        <line num="81" count="2" type="stmt"/>
+        <line num="82" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="83" count="2" type="stmt"/>
+        <line num="85" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="92" count="2" type="stmt"/>
+        <line num="101" count="16" type="stmt"/>
+        <line num="102" count="16" type="stmt"/>
+        <line num="106" count="16" type="stmt"/>
+        <line num="110" count="16" type="stmt"/>
+        <line num="112" count="16" type="cond" truecount="1" falsecount="1"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="116" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Cart">
+      <metrics statements="30" coveredstatements="30" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+      <file name="index.tsx" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/pages/Cart/index.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+        <line num="41" count="5" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="43" count="8" type="stmt"/>
+        <line num="47" count="5" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="51" count="8" type="stmt"/>
+        <line num="54" count="5" type="stmt"/>
+        <line num="59" count="8" type="stmt"/>
+        <line num="65" count="8" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/pages/Cart/styles.ts">
+        <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="82" count="1" type="stmt"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="118" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pages.Dashboard">
+      <metrics statements="21" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <file name="index.tsx" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/pages/Dashboard/index.tsx">
+        <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+        <line num="61" count="4" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+      </file>
+      <file name="styles.ts" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/pages/Dashboard/styles.ts">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="api.ts" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/services/api.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="formatValue.ts" path="/home/erickreis/Documentos/GoStack/Módulo-3/Desafio-08-Fundamentos-React-Native/src/utils/formatValue.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
